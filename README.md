@@ -1,0 +1,1 @@
+Our project, MealMuse, aims to enhance users' cooking experiences by leveraging artificial intelligence technology. Users can upload photos of vegetables to the system, and through AI algorithms, the system can identify the vegetable and direct them to recipes that include those vegetables. The MealMuse project achieves a 96% accuracy rate.
